@@ -21,7 +21,7 @@
     average_rating: 3,
     image: require('@/assets/images/products/product-1.png'),
     technical_specifications: {},
-    quantity: 0,
+    quantity: 0
   },
   {
     slug: 'saaz-hops',
@@ -32,7 +32,7 @@
     average_rating: 4,
     image: require('@/assets/images/products/product-2.png'),
     technical_specifications: {},
-    quantity: 0,
+    quantity: 0
   },
   {
     slug: 'west-coast-ipa-all-grain-kit',
@@ -43,7 +43,7 @@
     average_rating: 5,
     image: require('@/assets/images/products/product-3.png'),
     technical_specifications: {},
-    quantity: 0,
+    quantity: 0
   },
   ]
 }
