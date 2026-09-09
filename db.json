@@ -1,18 +1,22 @@
 {
   "categories": [
     {
+      "id": "adjuncts",
       "slug": "adjuncts",
       "name": "Adjuncts"
     },
     {
+      "id": "hops",
       "slug": "hops",
       "name": "Hops"
     },
     {
+      "id": "malts",
       "slug": "malts",
       "name": "Malts"
     },
     {
+      "id": "yeast",
       "slug": "yeast",
       "name": "Yeast"
     }
@@ -41,6 +45,7 @@
       }
     },
     {
+      "id": "saaz-hops",
       "slug": "saaz-hops",
       "name": "Saaz Hops",
       "price": "4.75",
@@ -62,6 +67,7 @@
       }
     },
     {
+      "id": "west-coast-ipa-all-grain-kit",
       "slug": "west-coast-ipa-all-grain-kit",
       "name": "West Coast IPA - All-Grain Kit",
       "price": "60.00",
@@ -82,6 +88,7 @@
       }
     },
     {
+      "id": "maris-otter-pale-malt",
       "slug": "maris-otter-pale-malt",
       "name": "Maris Otter Pale Malt",
       "price": "2.50",
@@ -103,6 +110,7 @@
       }
     },
     {
+      "id": "safale-us-05-dry-ale-yeast",
       "slug": "safale-us-05-dry-ale-yeast",
       "name": "SafAle US-05 Dry Ale Yeast",
       "price": "3.25",
@@ -124,6 +132,7 @@
       }
     },
     {
+      "id": "caramel-malt-60l",
       "slug": "caramel-malt-60l",
       "name": "Caramel Malt 60L",
       "price": "3.00",
@@ -145,6 +154,7 @@
       }
     },
     {
+      "id": "unmalted-wheat",
       "slug": "unmalted-wheat",
       "name": "Unmalted Wheat",
       "price": "1.80",
@@ -166,6 +176,7 @@
       }
     },
     {
+      "id": "pilsner-malt",
       "slug": "pilsner-malt",
       "name": "Pilsner Malt",
       "price": "2.20",
@@ -188,6 +199,7 @@
       }
     },
     {
+      "id": "cascade-hops",
       "slug": "cascade-hops",
       "name": "Cascade Hops",
       "price": "7.49",
@@ -209,6 +221,7 @@
       }
     },
     {
+      "id": "mosaic-hops",
       "slug": "mosaic-hops",
       "name": "Mosaic Hops",
       "price": "9.50",
@@ -230,6 +243,7 @@
       }
     },
     {
+      "id": "citra-hops",
       "slug": "citra-hops",
       "name": "Citra Hops",
       "price": "5.99",
@@ -250,6 +264,7 @@
       }
     },
     {
+      "id": "centennial-hops",
       "slug": "centennial-hops",
       "name": "Centennial Hops",
       "price": "6.20",
